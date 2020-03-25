@@ -3,7 +3,7 @@
 
 Word Password Recovery Tool<br>
 
-Recover your lost password from Word Document Files.<br><br>
+Recover your lost password from Word Document Files.<br>
 
 Use this software for educational purposes only!
 
